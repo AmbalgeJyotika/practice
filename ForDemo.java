@@ -6,7 +6,7 @@ public class ForDemo {
 
 		for(int i=1 ; i<=3 ; i++)
 		{
-			System.out.println("I shall not talk in class");
+			System.out.println("I shall talk in class");
 		}
 		System.out.println("--------The End--------");
 	}
